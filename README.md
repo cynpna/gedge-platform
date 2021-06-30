@@ -1,6 +1,6 @@
 # GEdge-Platform
 ***
-[![Generic badge](https://img.shields.io/badge/version-1.1.1-green.svg)](https://github.com/cynpna/gedge-platform)
+[![Generic badge](https://img.shields.io/badge/version-1.0-green.svg)](https://github.com/cynpna/gedge-platform)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
