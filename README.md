@@ -1,6 +1,6 @@
 # GEdge-Platform
 ***
-![Generic badge](https://img.shields.io/badge/version-1.1.1-green.svg)
+[![Generic badge](https://img.shields.io/badge/version-1.1.1-green.svg)](https://github.com/cynpna/gedge-platform)
 
 GEdge-Platform is a cloud edge computing platform for ultra low-latency services at the edge of the network.
 
